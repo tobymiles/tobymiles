@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tobymiles
 - 👀 I’m interested in working on projects that will help me gain more exprience
-- 🌱 I’m currently learning MERN Stack with is 95% done. I have a movie project on my repo.
+- 🌱 I’m currently learning MERN Stack and 95% done. I have a movie project on my repo.
 - 💞️ I’m looking to collaborate on any projects on MERN Stack.
 - 📫 How to reach me via my email ekwealortobechukwu22@gmail.com or whatsapp on +2348168343821.
 
